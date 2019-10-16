@@ -35,6 +35,8 @@ public class Voiture {
         this.nbChevaux = nbChevaux;
     }
 
+    public void test(){}
+
     @Override
     public String toString() {
         return super.toString();
